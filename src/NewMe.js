@@ -1,5 +1,5 @@
 import React from 'react';
-import {pure} from 'recompose';
+import { pure } from 'recompose';
 
 function NewMY(){
   console.log("child render")
